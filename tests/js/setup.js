@@ -508,6 +508,7 @@ window.TestStubs = {
       canAdd: true,
       canAddProject: false,
       config: [],
+      externalIssues: [],
       features: [],
       setupDialog: {
         url: '/github-integration-setup-uri/',
